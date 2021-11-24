@@ -1,0 +1,2 @@
+# Covid19challenge
+This challenge aims to develop a multiclass classification algorithm capable of detecting COVID-19 in Chest X-ray images. The dataset contains 3 image classes: COVID-19, Pneumonia and Normal (healthy) (See example images below). With 20,000+ images, the participants can train their algorithms to solve this challenge. A test set will be released and will be used to benchmark the obtained results. link: https://cxr-covid19.grand-challenge.org/CXR-COVID19/
