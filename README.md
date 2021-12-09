@@ -5,4 +5,4 @@ challenge link: https://cxr-covid19.grand-challenge.org/CXR-COVID19/
 
 dataset available at: https://drive.google.com/drive/folders/1T2O6Z8FkZiZv0Krwb44PsjZ6tdS4-PDm?usp=sharing
 
-VGG16 with 16 batch size: best model link (174MB): https://drive.google.com/file/d/1MsLsNDj5CfKNwI0V1eNGU0JS-nliY_Ve/view?usp=sharing
+VGG16 with 16 batch size: best model link (174 MB): https://drive.google.com/file/d/1MsLsNDj5CfKNwI0V1eNGU0JS-nliY_Ve/view?usp=sharing
